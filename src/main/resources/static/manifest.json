@@ -1,8 +1,8 @@
 {
   "name": "test",
   "short_name": "test",
-  "gcm_sender_id": "233142902290",
+  "gcm_sender_id": "634519045991",
   "display": "standalone",
   "gcm_user_visible_only": true,
-  "fcm_sender_id": "233142902290"
+  "fcm_sender_id": "634519045991"
 }
